@@ -1,0 +1,6 @@
+[submodule "Code"]
+	path = Code
+	url = https://github.com/ModischFabrications/Volumeter_Code.git
+[submodule "PCB"]
+	path = PCB
+	url = https://github.com/ModischFabrications/Volumeter_PCB.git
